@@ -14,6 +14,8 @@ Before using, install npm inquirer.
 
 To generate your README, open the terminal inside the 'js files' folder and input your information when prompted with the questions. After answering the last question, you will receive a confirmation message and a new file will be created within the same folder. Your README file will have all your input in the corresponding sections.
 
+https://drive.google.com/file/d/1YIWsncAvSSgh5_qn7wsN4YxByYAvFc5y/view
+
 ## License
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license. See the [LICENSE](./LICENSE) file for details.
