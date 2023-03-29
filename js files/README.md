@@ -1,10 +1,10 @@
-# pro-readme-generator
+# Sandy
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Description
 
-This README file generator uses Node.js and the inquirer npm package to create the file with JavaScript.
+This is a sample file to showcase the app functionality.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ This README file generator uses Node.js and the inquirer npm package to create t
 
 ## Installation
 
-Before using, install npm inquirer.
+None
 
 ## Usage
 
-To generate your README, open the terminal inside the 'js files' folder and input your information when prompted with the questions. After answering the last question, you will receive a confirmation message and a new file will be created within the same folder. Your README file will have all your input in the corresponding sections.
+None
 
 ## License
 
@@ -31,11 +31,11 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Contribution Guidelines
 
-
+None
 
 ## Testing
 
-
+follow the actions in this video!
 
 ## Questions 
 
