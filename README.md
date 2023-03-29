@@ -12,11 +12,9 @@ Before using, install npm inquirer.
 
 ## Usage
 
-To generate your README, open the terminal inside the 'js files' folder, type 'index node.js', hit enter, and input your information when prompted with the questions. After answering the last question, you will receive a confirmation message and a new file will be created within the same folder. Your README file will have all your input in the corresponding sections.    
+To generate your README, open the terminal inside the 'js files' folder, type 'index node.js', hit enter, and input your information when prompted with the questions. After answering the last question, you will receive a confirmation message and a new file will be created within the same folder. Your README file will have all your input in the corresponding sections.     
 
 To get an example of its functionality, you can watch the following video:  
-https://drive.google.com/file/d/1YIWsncAvSSgh5_qn7wsN4YxByYAvFc5y/view
-
 https://drive.google.com/file/d/1YIWsncAvSSgh5_qn7wsN4YxByYAvFc5y/view
 
 ## License
