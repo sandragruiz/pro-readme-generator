@@ -1,5 +1,4 @@
 // Generate markdown //
-const generateMarkdown = require('./utils/generateMarkdown');
 
 // Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
@@ -52,6 +51,8 @@ ${data.description}
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Contribution Guidelines](#contributing)
+- [Testing](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -74,7 +75,7 @@ ${data.tests}
 
 ## Questions 
 
-For questions or concerns, please contact [${answers.githubUsername}](https://github.com/${answers.githubUsername}) at ${answers.email}.
+For questions or concerns, please contact [${data.githubUsername}](https://github.com/${data.githubUsername}) at ${data.email}.
 
 `;
 }
